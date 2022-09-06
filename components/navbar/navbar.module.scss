@@ -1,0 +1,12 @@
+.nav--hidden{
+    transform: translateY(-150px);
+    z-index: 250;
+    transition: all .5s  ease-in-out ;
+}
+
+.nav--shown{
+    transition: all .5s  ease-in-out ;
+    top: 0;
+    z-index: 250;
+
+}

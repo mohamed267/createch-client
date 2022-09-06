@@ -1,0 +1,22 @@
+import React from 'react'
+import PropTypes from 'prop-types'
+
+const PartnerIcon = () => {
+  return (
+    <svg width="39" height="39" viewBox="0 0 39 39" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
+<rect width="39" height="39" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlinkHref="#image0_205_798" transform="scale(0.01)"/>
+</pattern>
+<image id="image0_205_798" width="100" height="100" xlinkHref="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAABmJLR0QA/wD/AP+gvaeTAAAFOElEQVR4nO3dXYgWVRzH8d9f86XQlYrMDKMXNyo19aYwM7uIQEgIuunSq1ooeoMgCjKqm7oR6ia9EOqmm4oKxIgo3DLDCyN7UVF70V22UiSNwl11v12cfWjXLXdmnjPPmXnm/4G92znzP/PbmeeZM3POSs4555xzzjnnnHPO1YPFagi4TNJqSYskzb3Ar/4taUjSTjMbirV/NwZYAnwAnCGfUeBTYHXqPnQNoK9AEOc7B2xM3ZfaAx5pM4jzvZC6T7UFLAdGIgdyDrgzdd9qCXg/chgtO1L3LbXc37KAeZKOS7oofjmSpMVmdriktitvWoFtVqm8MCTpjhLbrrwigVwavYqJbiq5/UorEgjRq5jompLbr7QigRyLXsVEi0puv9KqGIifITn9Fr2Kia4GitTVFYp0/HeFAcKyzJS0oMT2Ky13IGaGpJ9KqGW8xn6OFL00lH3j1tjPkaKBfB+1isn8DMnp26hVTOaB5LQ3ahWTXVVy+5VVNJD9kk7FLOQ8/rU3DzM7J2l35FrGKzPsSmvnL3FntCom+6rEtiutnUD6o1Ux0WlJ20pqu/LaPUP+ilXIOFv99aCCgG2RH+HuB3pS9yuldr/NxLy0DEq6z8wa+4HeNmABcDbCmTEE3Jy6P10B6Pcw4olxA/Z2G9sOSrrLzPZFqMNJEjAXOOVnRoUAWzyMCgFWeBgVA+zOEMYA0Ju61iqLOaq6OcPvDEs6EnGf7v8Al4xdjqbyZOpaGwN4IkMgJ4DLU9faCMBs4EiGUDalrrUxCNPcpjIMLEldayMAM4DDGULZA8xIXW8jABsyBALwbOpaGwGYBnyR8dK1LHW9jQAsJdvE0D3A7NT1NgLwcsZL11upa20EYBawL2MofanrbQRgLWEZjamM4PPUOwN4LeNZMghcm7rerke4N9mZMZRDQGMn7HQMsAg4ljGUvUDZ068dsI6wpkkWO4CLU9fc9YCXMgbSCmVe6po7KdqKclkB0yW9I+n+jJt8LWmdmZU2+xdYKGm9pNslzZE0KulXSb9IOippQOHB2tDYHMvSdDwQKQzTS9ou6e6MmxyUdK+Z/Ry5jh5Jr0raIGlWhk1GFF5dOqp/wzog6UszOxSzto4DegjDJlkNAqsi7n8x8EOO/U+lH1gTq74kgCuBgzk6PUyEO3qgl/DCRWyjwIsxjk0ywHWEv/48tlJwQJLywhiv3ssVEkLJc6ZAuNwtzbmfToQB4at9vdf9Ily+8nymAJwGngOmXFCNzoXR8kknjlupgDnAxwU6/w2w8gLtdjoMCJ8n9Z/eTXhz5b0CB2AY2ERYYXt8eynCaHkg1XGMCphOuKPPOswy3gngKWAmacMAeDT1sYyKMPZ1vODBOET+b2+xPZ23z5VeMcHMtktaIWlXgc1vkLQwbkXlq3QgkmRmAwpDLK+r/AU4k6t8IJJkZiNm9piktZK6evpbLQJpMbPPJS2X9IzC1IauU6tAJMnMzpjZK5KWSfosdT2x1S6QFjM7KOkehaHzHxOXE01tA5EkMxs1szcVlid/WOH5RJX8mXeDWgfSMnYZ2yKpV9LjCk/7qmAg7wZJnhiWjfByxIOS+iTdlqiMM5Lmm9kfifZfTcBK4A2KLW7QjndT973SCCtOPEQYTR4uOYwRoNH/diMXwozh9cBmss0czstfHC+KMLK8Bnge+Ag42UYQbT/z78oP9XYQ/jPDjZJuHfu5RWGg8nqFd7b+y1lJH0raaGbftbN/DyQH4ApJ88d+FigEcVLSLjPLfc/hnHPOOeecc84551yd/QO8TFddWwCZBwAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
+
+    
+
+  )
+}
+
+
+export default PartnerIcon
